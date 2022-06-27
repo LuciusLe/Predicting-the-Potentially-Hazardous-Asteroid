@@ -13,7 +13,6 @@ Thus, this dataset compiles the list of NASA certified asteroids that are classi
 
 <img align="right" alt="img" height="350px" src="Image/system_architecture.png" />
 
-
 ### About Dataset
 
 The dataset contains 90836 real world observations and 9 different attributes:
