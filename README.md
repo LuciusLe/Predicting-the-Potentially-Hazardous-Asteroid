@@ -11,8 +11,6 @@ Even though we might think that a distance of 70,000 Km can not potentially harm
 These objects/asteroids can thus prove to be harmful. Hence, it is wise to know what is surrounding us and what can harm us amongst those. 
 Thus, this dataset compiles the list of NASA certified asteroids that are classified as the nearest earth object.
 
-<img align="right" alt="img" height="350px" src="Image/system_architecture.png" />
-
 ### About Dataset
 
 The dataset contains 90836 real world observations and 9 different attributes:
